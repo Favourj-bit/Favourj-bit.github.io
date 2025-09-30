@@ -1,200 +1,220 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Favour James",
+    "label": "Machine Learning Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "favour.ujames196@gmail.com",
+    "phone": "+234-7050-87-3759",
+    "url": "https://favourj-bit.github.io/",
+    "summary": "Machine Learning Engineer with experience in LLMs, NLP, and Knowledge Graphs. Skilled in building scientific interaction extraction pipelines, evaluation frameworks, and visualization tools. Experienced in GSoC projects and presenting research at international conferences.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Osun",
+      "countryCode": "NG",
+      "region": "Nigeria"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Github",
+        "username": "Favourj-bit",
+        "url": "https://github.com/Favourj-bit"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "favour-james-1868b61b9",
+        "url": "https://www.linkedin.com/in/favour-james-1868b61b9/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Cytoscape Consortium",
+      "position": "Machine Learning Engineer (Full-time)",
+      "url": "https://cytoscape.org",
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "summary": "Developing LLM-based pipelines for extracting and visualizing biological interactions in BEL format, integrated with Cytoscape and NDEx.",
+      "highlights": [
+        "Developed a production-ready Python package for BEL interaction extraction",
+        "Benchmarked performance against INDRA, extracting more relationships (67 vs. 27)",
+        "Delivered a talk at ISMB/ECCB 2025 in Liverpool, UK"
+      ]
+    },
+    {
+      "name": "Google Summer of Code 2024 – National Resource for Network Biology",
+      "position": "Machine Learning Engineer (Full-time)",
+      "url": "https://summerofcode.withgoogle.com/",
+      "startDate": "2024-05-01",
+      "endDate": "2024-09-01",
+      "summary": "Built pipelines for LLM-based molecular interaction extraction and knowledge graph creation.",
+      "highlights": [
+        "Extracted interactions with GPT-4/GPT-4 Turbo using LangChain tools",
+        "Achieved F1-score of 47.92% on grounded datasets",
+        "Improved precision by 18% with entity grounding via Gilda"
+      ]
+    },
+    {
+      "name": "Google Summer of Code 2023 – National Resource for Network Biology",
+      "position": "Data Scientist (Full-time)",
+      "url": "https://summerofcode.withgoogle.com/",
+      "startDate": "2023-05-01",
+      "endDate": "2023-09-01",
+      "summary": "Worked on graph data preprocessing and PyTorch Geometric dataset contributions.",
+      "highlights": [
+        "Developed the BrcaTcga dataset, publicly available on Zenodo with 1k+ downloads",
+        "Built GNN models (GCNConv, GATConv) achieving RMSE of 31.013",
+        "Contributed dataset to PyTorch Geometric official repository"
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "IEEE OAU-SB (Women in Engineering Lead)",
+      "location": "Osun, Nigeria",
+      "position": "Lead",
+      "startDate": "2024-01-01",
+      "endDate": "2024-12-01",
+      "summary": "Led the Women in Engineering branch, supporting female participation in engineering activities."
+    },
+    {
+      "organization": "AWS Cloud Club OAU",
+      "location": "Osun, Nigeria",
+      "position": "Event Coordinator",
+      "startDate": "2023-05-01",
+      "endDate": "2023-12-01",
+      "summary": "Planned and coordinated events and hackathons."
+    },
+    {
+      "organization": "Data Science Nigeria (DSN)",
+      "location": "Osun, Nigeria",
+      "position": "AI Tutor",
+      "startDate": "2022-06-01",
+      "endDate": "2024-06-01",
+      "summary": "Organized ML training bootcamps for students."
+    },
+    {
+      "organization": "Google Developer Student Club (GDSC) OAU",
+      "location": "Osun, Nigeria",
+      "position": "Competitions Lead",
+      "startDate": "2022-08-01",
+      "endDate": "2023-08-01",
+      "summary": "Supported members in preparing for and participating in competitions."
+    },
+    {
+      "organization": "IEEE OAU-SB",
+      "location": "Osun, Nigeria",
+      "position": "General Secretary",
+      "startDate": "2021-10-01",
+      "endDate": "2023-12-01",
+      "summary": "Oversaw branch activities in alignment with IEEE policies."
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Obafemi Awolowo University",
+      "location": "Osun, Nigeria",
+      "url": "https://oauife.edu.ng/",
+      "area": "Electronic and Electrical Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2018-04-01",
+      "endDate": "2024-12-01",
+      "courses": ["Computational Structures I & II", "Intelligent Control", "Probability and Stochastic Processes"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Best Paper Award - AfricaNLP, ACL 2025",
+      "date": "2025-03-01",
+      "awarder": "AfricaNLP Workshop, ACL",
+      "summary": "Awarded for research paper on robustness of LLMs to typographical noise in Yorùbá QA."
+    },
+    {
+      "title": "ISCB Fellowship Grant Award",
+      "date": "2025-05-01",
+      "awarder": "International Society for Computational Biology",
+      "summary": "Awarded fellowship grant to attend ISMB/ECCB 2025 in Liverpool, UK."
+    },
+    {
+      "title": "Poster Award",
+      "date": "2023-09-01",
+      "awarder": "Deep Learning Indaba",
+      "summary": "Recognized for outstanding poster presentation on graph neural networks."
+    },
+    {
+      "title": "Best Poster Award",
+      "date": "2023-08-01",
+      "awarder": "DSN-AI Bootcamp",
+      "summary": "Awarded best poster at DSN-AI Bootcamp 2023."
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  "certificates": [],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "textToKnowledgeGraph: Generation of Molecular Interaction Knowledge Graphs Using Large Language Models for Exploration in Cytoscape",
+      "publisher": "bioRxiv",
+      "releaseDate": "2025-01-01",
+      "url": "https://biorxiv.org/",
+      "summary": "Introduced a tool that extracts interactions from publications directly in BEL and visualizes them in Cytoscape."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Evaluating Robustness of LLMs to Typographical Noise in Yorùbá QA",
+      "publisher": "AfricaNLP, ACL 2025",
+      "releaseDate": "2025-03-01",
+      "url": "https://aclanthology.org/",
+      "summary": "Explored robustness of LLMs to noisy inputs in Yorùbá QA systems."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "A Beginner’s Guide to Structured Query Language (SQL)",
+      "publisher": "Hashnode",
+      "releaseDate": "2023-05-01",
+      "url": "https://jamesfav.hashnode.dev",
+      "summary": "Beginner-friendly SQL series featured on Hashnode Twitter page."
+    },
+    {
+      "name": "GSoC’23 Chronicles",
+      "publisher": "Hashnode",
+      "releaseDate": "2023-09-01",
+      "url": "https://jamesfav.hashnode.dev",
+      "summary": "Detailed GSoC articles serving as a resource for researchers."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": ["Python", "NLP", "LLMs", "LangChain", "Scikit-learn", "TensorFlow", "Keras", "PyTorch", "Knowledge Graphs", "Docker", "Git"]
+    },
+    {
+      "name": "Soft Skills",
+      "level": "",
+      "keywords": ["Problem Solving", "Collaboration", "Documentation", "Communication"]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Fluent"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Artificial Intelligence",
+      "keywords": ["LLMs", "NLP", "Knowledge Graphs", "Graph Neural Networks", "Computational Biology"]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
+      "name": "DermaLog",
+      "summary": "An innovative application designed to assist individuals in monitoring and understanding their skin’s health over time.",
+      "highlights": [],
       "url": "https://example.com"
+    },
+    {
+      "name": "BrcaTcga Dataset",
+      "summary": "Developed and integrated into PyTorch Geometric repository, widely used for GNN benchmarking.",
+      "highlights": ["1k+ downloads on Zenodo"]
     }
   ]
 }
