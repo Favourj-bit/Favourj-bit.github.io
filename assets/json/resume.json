@@ -26,10 +26,10 @@
     {
       "name": "Cytoscape Consortium",
       "position": "Machine Learning Engineer (Full-time)",
-      "url": "https://web.cytoscape.org/",
+      "url": "https://cytoscape.org/",
       "startDate": "2024-09-01",
-      "endDate": "Present",
-      "summary": "Developing LLM-based pipelines for extracting, representing, and visualizing biological interactions as knowledge graphs in BEL format, integrated with Cytoscape Web and NDEx.",
+      "endDate": "",
+      "summary": "Developing LLM-based pipelines for extracting, representing, and visualizing biological interactions as knowledge graphs in BEL format, integrated with Cytoscape and NDEx.",
       "highlights": [
         "Built a production-ready Python package that transforms scientific text into structured knowledge graphs using LLMs, outputting interactions in Biological Expression Language (BEL).",
         "Designed pipelines for converting BEL statements into Cytoscape-compatible networks and uploading to NDEx for interactive visualization of biological knowledge graphs.",
@@ -41,7 +41,7 @@
     {
       "name": "Google Summer of Code 2024 – National Resource for Network Biology",
       "position": "Machine Learning Engineer (Full-time)",
-      "url": "https://summerofcode.withgoogle.com/myprojects/details/biCyAipp",
+      "url": "https://summerofcode.withgoogle.com/",
       "startDate": "2024-05-01",
       "endDate": "2024-09-01",
       "summary": "Developed pipelines for LLM-based molecular interaction extraction and knowledge graph creation from scientific literature.",
@@ -55,7 +55,7 @@
     {
       "name": "Google Summer of Code 2023 – National Resource for Network Biology",
       "position": "Data Scientist (Full-time)",
-      "url": "https://summerofcode.withgoogle.com/myprojects/details/NBZn0Zm3",
+      "url": "https://summerofcode.withgoogle.com/",
       "startDate": "2023-05-01",
       "endDate": "2023-09-01",
       "summary": "Worked on biomedical graph data preprocessing and developed benchmark resources for graph neural network research.",
