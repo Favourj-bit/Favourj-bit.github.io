@@ -2,10 +2,9 @@
   "basics": {
     "name": "Favour James",
     "label": "Machine Learning Engineer",
-    "image": "",
     "email": "favour.ujames196@gmail.com",
     "url": "https://favourj-bit.github.io/",
-    "summary": "Machine Learning Engineer with research experience in NLP, LLMs, and Knowledge Graphs. Skilled in building extraction pipelines and designing evaluation frameworks for robust and efficient model performance. My work spans constructing biological knowledge graphs for scientific discovery, evaluating the robustness of multilingual LLMs to noisy inputs, and developing graph datasets for benchmarking graph neural networks."
+    "summary": "Machine Learning Engineer with research experience in NLP, LLMs, and Knowledge Graphs. Skilled in building extraction pipelines and designing evaluation frameworks for robust and efficient model performance. My work spans constructing biological knowledge graphs for scientific discovery, evaluating the robustness of multilingual LLMs to noisy inputs, and developing graph datasets for benchmarking graph neural networks.",
     "location": {
       "countryCode": "NG",
       "region": "Nigeria"
