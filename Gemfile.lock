@@ -287,12 +287,10 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  classifier-reborn
   css_parser
   feedjira
   httparty
   jekyll
-  jekyll-archives-v2
   jekyll-email-protect
   jekyll-feed
   jekyll-get-json
