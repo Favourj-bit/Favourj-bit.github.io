@@ -25,7 +25,7 @@ I participated in Google Summer of Code twice(2023 & 2024) under the National Re
 
 Currently, I work with the [Cytoscape Consortium](https://cytoscape.org/) where I developed LLM-based pipelines for knowledge graph construction and visualization, transforming scientific literature into structured biological interaction networks integrated with Cytoscape and NDEx, a continuation of my GSoC work in 2024.
 
-I’m also interested in exploring the robustness and trustworthiness of language models in multilingual settings. I recently worked on evaluating how large models handle typographical noise and data scarcity in Yorùbá question answering, which resulted in a publication at AfricaNLP, ACL 2025. This work reflects my broader interest in building inclusive and reliable AI systems that perform well across languages and contexts.
+I’m also interested in exploring the robustness and trustworthiness of language models in multilingual settings. I recently worked on evaluating how large models handle typographical noise in Yorùbá question answering, which resulted in a publication at AfricaNLP, ACL 2025. This work reflects my broader interest in building inclusive and reliable AI systems that perform well across languages and contexts.
 
 I hold a B.Sc. in Electronic and Electrical Engineering from Obafemi Awolowo University, where I was actively involved in student and engineering communities. I served as General Secretary for IEEE OAU-SB, Departmental Librarian, and later as Women in Engineering Lead in IEEE OAU-SB, where I organized STEM outreach programs to promote inclusion and awareness among young women in science and engineering.
 
