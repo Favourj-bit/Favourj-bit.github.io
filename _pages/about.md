@@ -8,10 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -21,9 +17,16 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
+Hello, I’m Favour James. I am a Machine Learning Engineer and researcher from Nigeria, passionate about Machine Learning Methods, Natural Language Processing (NLP), and Knowledge Representation.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research interest focuses on improving the robustness, efficiency, and reliability of language models, especially when applied to real-world and scientific contexts. I am deeply interested in how LLMs can extract, structure, and reason over knowledge, and how knowledge graphs can be used both to enhance model reasoning and to make AI outputs more interpretable for users.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I participated in Google Summer of Code twice(2023 & 2024) under the National Resource for Network Biology where I worked on [generating a PyTorch Geometric(PyG) graph dataset](https://summerofcode.withgoogle.com/archive/2023/projects/NBZn0Zm3) and [LLM-driven scientific extraction systems](https://summerofcode.withgoogle.com/archive/2024/projects/biCyAipp). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, I work with the [Cytoscape Consortium](https://cytoscape.org/) where I developed LLM-based pipelines for knowledge graph construction and visualization, transforming scientific literature into structured biological interaction networks integrated with Cytoscape and NDEx, a continuation of my GSoC work in 2024.
+
+I’m also interested in exploring the robustness and trustworthiness of language models in multilingual settings. I recently worked on evaluating how large models handle typographical noise and data scarcity in Yorùbá question answering, which resulted in a publication at AfricaNLP, ACL 2025. This work reflects my broader interest in building inclusive and reliable AI systems that perform well across languages and contexts.
+
+I hold a B.Sc. in Electronic and Electrical Engineering from Obafemi Awolowo University, where I was actively involved in student and engineering communities. I served as General Secretary for IEEE OAU-SB, Departmental Librarian, and later as Women in Engineering Lead in IEEE OAU-SB, where I organized STEM outreach programs to promote inclusion and awareness among young women in science and engineering.
+
+
