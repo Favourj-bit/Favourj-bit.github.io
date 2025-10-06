@@ -143,19 +143,15 @@ newsletter:
 # Collections
 # -----------------------------------------------------------------------------
 
-# collections:
-#   books:
-#     output: true
-#   news:
-#     defaults:
-#       layout: post
-#     output: true
-#   projects:
-#     output: true
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
 
-# -----------------------------------------------------------------------------
-# Jekyll settings
-# -----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+Jekyll settings
+-----------------------------------------------------------------------------
 
 # Markdown and syntax highlight
 markdown: kramdown
