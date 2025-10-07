@@ -68,6 +68,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-published-my-first-research-paper-on-biorxiv-and-submitted-it-to-bioinformatics-journal",
           title: 'I published my first research paper on bioRxiv and submitted it to bioinformatics...',
           description: "",
+          section: "News",},{id: "news-our-paper-won-the-best-paper-award-at-africanlp-2025",
+          title: 'Our paper won the Best Paper Award at AfricaNLP 2025',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
