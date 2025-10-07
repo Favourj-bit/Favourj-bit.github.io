@@ -50,6 +50,9 @@ ninja.data = [{
           section: "News",},{id: "news-got-accepted-for-google-summer-of-code-2024",
           title: 'Got accepted for Google Summer of Code 2024',
           description: "",
+          section: "News",},{id: "news-i-successfully-completed-google-summer-of-code-2024",
+          title: 'I successfully completed Google Summer of Code 2024',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
