@@ -62,6 +62,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-graduated-from-university-with-a-second-class-upper",
           title: 'I graduated from university with a Second Class(Upper)',
           description: "",
+          section: "News",},{id: "news-i-published-my-first-research-paper-on-biorxiv-and-submitted-it-to-bioinformatics-journal",
+          title: 'I published my first research paper on bioRxiv and submitted it to bioinformatics...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
