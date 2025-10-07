@@ -38,6 +38,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-successfully-completed-google-summer-of-code-2023",
           title: 'I successfully completed Google Summer of Code 2023',
           description: "",
+          section: "News",},{id: "news-i-won-poster-award-for-my-gsoc-23-work-at-deep-learning-indaba-2023",
+          title: 'I won poster award for my GSoC’23 work at Deep Learning Indaba 2023...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
