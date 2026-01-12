@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Gave a physical talk at the Intelligent Systems for Molecular Biology (ISMB) 2025, Liverpool on the work done under Cytoscape.
+Gave a physical talk at the Intelligent Systems for Molecular Biology (ISMB) 2025, Liverpool on the work done under Cytoscape - [Conference Link](https://www.iscb.org/ismbeccb2025/home)
