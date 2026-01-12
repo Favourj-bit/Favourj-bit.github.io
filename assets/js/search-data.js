@@ -89,14 +89,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Favour James", "_blank");
+          window.open("https://www.linkedin.com/in/favour-james-1868b61b9", "_blank");
         },
       },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/https://orcid.org/0009-0005-9299-2442", "_blank");
+          window.open("https://orcid.org/0009-0005-9299-2442", "_blank");
         },
       },{
         id: 'social-rss',
