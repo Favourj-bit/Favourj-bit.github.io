@@ -71,7 +71,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-published-my-first-research-paper-on-biorxiv-and-submitted-it-to-bioinformatics-journal",
           title: 'I published my first research paper on bioRxiv and submitted it to bioinformatics...',
           description: "",
-          section: "News",},{id: "news-gave-a-physical-talk-at-the-intelligent-systems-for-molecular-biology-ismb-2025-liverpool-on-the-work-done-under-cytoscape",
+          section: "News",},{id: "news-gave-a-physical-talk-at-the-intelligent-systems-for-molecular-biology-ismb-2025-liverpool-on-the-work-done-under-cytoscape-conference-link",
           title: 'Gave a physical talk at the Intelligent Systems for Molecular Biology (ISMB) 2025,...',
           description: "",
           section: "News",},{id: "news-our-paper-won-the-best-paper-award-at-africanlp-2025",
