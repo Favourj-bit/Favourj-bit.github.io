@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-05-04
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Got accepted for Google Summer of Code 2023
